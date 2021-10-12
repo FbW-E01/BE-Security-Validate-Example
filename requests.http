@@ -1,0 +1,9 @@
+POST http://localhost:9001/users
+Content-Type: application/json
+X-Test: f
+
+{
+    "username": "CoolZero",
+    "password": "f",
+    "email": "bloop"
+}
